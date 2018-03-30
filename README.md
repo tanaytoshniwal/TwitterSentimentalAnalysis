@@ -2,8 +2,8 @@
 Sentimental analysis using Twitter API and Lexicon Approach.
 
 Usage:
-```python
-    python sentimental_analysis.py
+```bash
+    $ python sentimental_analysis.py
 ```
 **Note**-```All the dependencies must be installed```
 
